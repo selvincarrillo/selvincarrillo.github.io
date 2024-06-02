@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Apps.html",
+    "href": "Apps.html",
+    "title": "Apps",
+    "section": "",
+    "text": "College Score\nhttps://selvincarrillo.shinyapps.io/college_score_and_gun_deaths_app/\n\n\nGun Deaths in the US\nhttps://selvincarrillo.shinyapps.io/gun_deaths_app/"
   }
 ]
