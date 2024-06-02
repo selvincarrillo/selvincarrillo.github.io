@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://selvincarrillo.github.io/website/index.html</loc>
-    <lastmod>2024-06-01T23:50:51.443Z</lastmod>
+    <loc>https://selvincarrillo.github.io/website/Resources.html</loc>
+    <lastmod>2024-06-02T16:24:38.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://selvincarrillo.github.io/website/Apps.html</loc>
+    <lastmod>2024-06-02T16:53:57.827Z</lastmod>
   </url>
   <url>
     <loc>https://selvincarrillo.github.io/website/about.html</loc>
     <lastmod>2024-06-01T18:07:23.121Z</lastmod>
   </url>
   <url>
-    <loc>https://selvincarrillo.github.io/website/Apps.html</loc>
-    <lastmod>2024-06-02T00:51:02.299Z</lastmod>
+    <loc>https://selvincarrillo.github.io/website/index.html</loc>
+    <lastmod>2024-06-02T17:01:33.109Z</lastmod>
   </url>
 </urlset>

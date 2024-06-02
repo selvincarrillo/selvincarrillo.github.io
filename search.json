@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Selvin Carrillo",
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Data Science\n\nR for Data Science (2e)\nggplot2: Elegant Graphics for Data Analysis (3e)\nQuarto\nShiny"
+  },
+  {
+    "objectID": "Apps.html",
+    "href": "Apps.html",
+    "title": "Apps",
+    "section": "",
+    "text": "These are Apps created while learning shiny!\n\nTo learn move about College Score data visit https://selvincarrillo.shinyapps.io/college_score_and_gun_deaths_app/\nTo learn more about Gun Deaths in the US visit https://selvincarrillo.shinyapps.io/gun_deaths_app/"
   },
   {
     "objectID": "about.html",
@@ -14,10 +21,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "Apps.html",
-    "href": "Apps.html",
-    "title": "Apps",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
     "section": "",
-    "text": "College Score\nhttps://selvincarrillo.shinyapps.io/college_score_and_gun_deaths_app/\n\n\nGun Deaths in the US\nhttps://selvincarrillo.shinyapps.io/gun_deaths_app/"
+    "text": "Selvin Carrillo is currently a Ph.D. student in the Department of Horticulture at the University of Georgia. His research focuses on enhancing peach orchard management practices such as mineral nutrition, root phenotyping, irrigation scheduling, and rootstock-scion water and nutrient dynamics in peaches. These projects are under the supervision of Dr. Dario Chavez Chavez Lab.\nSelvin Carrillo was born in Guatemala, where he earned a bachelor’s degree in Agronomy at the University of San Carlos and a specialization in Agricultural Research endorsed by the partnership ICTA-CUNOC-IICA/CRIA. Before graduate school, he did an internship through the Worldwide Farmers Exchange Program, and worked at the Inter-American Institute for Cooperation on Agriculture (IICA), the Institute of Science and Agricultural Technologies, and the Farmer-to-Farmer Program implemented by Partners of the Americas. He then completed a master’s degree in Crop Science at North Carolina State University working in heat stress."
   }
 ]
